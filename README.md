@@ -1,0 +1,1 @@
+My replication package for my STA-145 final project examines the relationship between cultural relevance and the presence of article maps in journalism articles. I collected and analyzed data on multiple characteristics, and I aimed to determine whether articles that include maps are more culturally relevant than those that do not.  
